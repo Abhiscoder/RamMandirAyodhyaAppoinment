@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "17f06ad5-e92c-4dd6-becc-cfdf27aa0bbb",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:4000/api/admin/add-doctor",
+        "url": "http://localhost:4000/api/admin/add-doctor",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2024-11-09T21:03:15.504Z",
+        "modified": "2024-11-09T21:11:22.245Z",
+        "headers": [],
+        "body": {
+            "type": "formdata",
+            "raw": "",
+            "form": [
+                {
+                    "name": "name ",
+                    "value": "Dr. Richard James"
+                },
+                {
+                    "name": "email",
+                    "value": "richard@gmail.com"
+                },
+                {
+                    "name": "password",
+                    "value": "12345678"
+                },
+                {
+                    "name": "degree",
+                    "value": "MBBS"
+                },
+                {
+                    "name": "experience",
+                    "value": "4 Years"
+                },
+                {
+                    "name": "fees",
+                    "value": "50"
+                },
+                {
+                    "name": "address",
+                    "value": "\"{\\n line1: '17th Cross, Richmond',\\n line2: 'Circle, Ring Road, London'\\n }\""
+                },
+                {
+                    "name": "speciality",
+                    "value": "General physician"
+                },
+                {
+                    "name": "about",
+                    "value": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies."
+                }
+            ],
+            "files": []
+        }
+    }
+]

@@ -1,0 +1,308 @@
+//Data 
+
+Here are 4 sample Pandit profiles with realistic and culturally appropriate values, each including:
+
+Name
+
+Email
+
+Password (for placeholder/demo)
+
+Address 1 (e.g., city/area)
+
+Address 2 (e.g., specific locality/landmark)
+
+About (brief description)
+
+Fee (per service/ritual)
+
+🔸 1. Pandit Ram Narayan Shastri
+Email: ram.shastri@ayodhyapandits.com
+
+Password: Ram@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Near Hanuman Garhi Temple
+
+About: Specialized in Katha, Puja, and Sanskar ceremonies. 20+ years of experience in Vedic rituals. Fluent in Sanskrit and Hindi.
+
+Fee: ₹1500
+
+🔸 2. Pandit Shivendra Tripathi
+Email: shivendra.t@ayodhyapandits.com
+
+Password: Shiv@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Opposite Saryu Ghat
+
+About: Performs Rudrabhishek, Griha Pravesh, and marriage pujas. Trusted by locals and travelers for authentic rituals.
+
+Fee: ₹1800
+
+🔸 3. Pandit Harishankar Pathak
+Email: harishankar.p@ayodhyapandits.com
+
+Password: Hari@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Close to Kanak Bhavan
+
+About: Expert in astrology, Kundali reading, and Pitru Dosha Nivaran. Offers deep spiritual guidance.
+
+Fee: ₹2000
+
+🔸 4. Pandit Vimal Tiwari
+Email: vimal.tiwari@ayodhyapandits.com
+
+Password: Vimal@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Near Ram Janmabhoomi Gate No. 3
+
+About: Known for Shanti Path, Navagraha Puja, and daily temple rituals. Fluent with both tourists and locals.
+
+Fee: ₹1200
+
+Let me know if you want the same for tourist guides, photographers, or local rooms too.
+
+
+
+
+
+
+You said:
+same as a photographer 
+
+
+ChatGPT said:
+Here are 4 sample Photographer profiles suitable for your Ayodhya-based service app, including:
+
+Name
+
+Email
+
+Password
+
+Address 1 (city/area)
+
+Address 2 (specific location or landmark)
+
+About (short profile)
+
+Fee (for standard photo session or package)
+
+📸 1. Ankit Verma
+Email: ankit.verma@ayodhyaphotos.com
+
+Password: Ankit@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Near Ram Ki Paidi Ghat
+
+About: Specializes in temple photography, family portraits, and candid shots for pilgrims. Over 8 years of experience.
+
+Fee: ₹1200 per session
+
+📸 2. Nisha Tiwari
+Email: nisha.tiwari@ayodhyaphotos.com
+
+Password: Nisha@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Close to Dashrath Mahal
+
+About: Creative wedding and event photographer with a modern style. Offers photo albums and digital packages.
+
+Fee: ₹2000 per event
+
+📸 3. Ravi Shankar Singh
+Email: ravi.singh@ayodhyaphotos.com
+
+Password: Ravi@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Opp. Ram Mandir East Gate
+
+About: Captures rituals and puja moments with a devotional lens. Highly recommended by tour groups.
+
+Fee: ₹1500 per session
+
+📸 4. Meenal Chauhan
+Email: meenal.chauhan@ayodhyaphotos.com
+
+Password: Meenal@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Near Guptar Ghat
+
+About: Experienced in travel, heritage, and spiritual tourism photography. Delivers high-resolution edited photos within 24 hours.
+
+Fee: ₹1800 per session
+
+Let me know if you want the same kind of data for tourist guides or local rooms, or if you'd like this in JSON, CSV, or seeding format for database input.
+
+
+
+
+
+
+You said:
+same as a tourist guide 
+
+
+ChatGPT said:
+Here are 4 sample Tourist Guide profiles for your Ayodhya-based service app, including:
+
+Name
+
+Email
+
+Password
+
+Address 1 (city/area)
+
+Address 2 (specific location or landmark)
+
+About (short bio)
+
+Fee (standard for full/half-day guidance)
+
+🧭 1. Vijay Tripathi
+Email: vijay.tripathi@ayodhyaguide.com
+
+Password: Vijay@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Near Ram Janmabhoomi Complex
+
+About: Certified local guide with 10+ years of experience in Ayodhya’s sacred sites, fluent in Hindi and English.
+
+Fee: ₹800 for half day
+
+🧭 2. Savita Pandey
+Email: savita.pandey@ayodhyaguide.com
+
+Password: Savita@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Close to Hanuman Garhi Temple
+
+About: Female guide offering safe and culturally immersive experiences for solo travelers and families.
+
+Fee: ₹1500 full day
+
+🧭 3. 
+
+
+🧭 4. Shubham Shastri
+Email: shubham.shastri@ayodhyaguide.com
+
+Password: Shubham@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Opp. Saryu Ghat Entrance
+
+About: Specializes in temple tours and local legends. Works with spiritual tour operators across India.
+
+Fee: ₹1000 for full day
+
+Let me know if you’d like:
+
+A CSV/JSON version
+
+Local Room provider data
+
+Or a seeding file for MongoDB or SQL.
+
+I’ve got your back.
+
+
+
+
+
+
+You said:
+same as a local rooms
+
+
+ChatGPT said:
+Here are 4 sample listings for Local Rooms in Ayodhya, including:
+
+Name (host or owner)
+
+Email
+
+Password
+
+Address 1 (general area)
+
+Address 2 (detailed landmark or street)
+
+About (room description, amenities, etc.)
+
+Fee (per night)
+
+🏨 1. Shyam Niwas Guest House
+Email: shyam.niwas@ayodhyarooms.com
+
+Password: Shyam@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Near Naya Ghat, Opp. Saryu River Bank
+
+About: Budget-friendly rooms with river view, Wi-Fi, 24-hour water, and vegetarian meals available on request.
+
+Fee: ₹700 per night
+
+🏨 2. Radha Krishna Stay
+Email: radhakrishna@ayodhyarooms.com
+
+Password: RadhaKrishna@123
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: 5 min walk from Ram Mandir Main Gate
+
+About: Newly constructed guest rooms with AC, attached bathrooms, and CCTV surveillance. Family-friendly.
+
+Fee: ₹1200 per night
+
+🏨 3. Maa Sita Bhawan
+Email: sitabhawan@ayodhyarooms.com
+
+Password: Sita@1234
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Beside Hanuman Garhi Temple
+
+About: Peaceful spiritual lodging ideal for pilgrims. Free sattvik meals included. Shared or private room options.
+
+Fee: ₹500 per night
+
+🏨 4. Tulsi Heritage Lodge
+Email: tulsi.lodge@ayodhyarooms.com
+
+Password: Tulsi@4321
+
+Address 1: Ayodhya, Uttar Pradesh
+
+Address 2: Near Dashrath Mahal Gate
+
+About: Heritage-style lodging with antique decor and rooftop views. AC/Non-AC rooms available.
+
+Fee: ₹1000 per night
+
